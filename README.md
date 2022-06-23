@@ -27,14 +27,6 @@ cd FundMe-FrontEnd
 
 You can usually just double click the file to "run it in the browser". Or you can right click the file in your VSCode and run "open with live server".
 
-Optionally:
-
-If you'd like to run with prettier formatting, or don't have a way to run your file in the browser, run:
-```
-yarn
-yarn http-server
-```
-
 And you should see a small button that says "connect".
 
 ![Connect](connect.png)
